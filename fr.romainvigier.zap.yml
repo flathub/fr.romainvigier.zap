@@ -30,8 +30,8 @@ modules:
     sources:
       - type: git
         url: https://gitlab.com/rmnvgr/zap.git
-        tag: 1.2.2
-        commit: 4c936f86de0570eabcd64aa8b6816ea9ac162dea
+        tag: 1.2.3
+        commit: 0cfa9d438cb36c671207ea307278f6c99c47f68b
         x-checker-data:
           type: git
           tag-pattern: ^([\d\.]+)$
