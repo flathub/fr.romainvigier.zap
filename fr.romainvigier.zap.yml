@@ -4,7 +4,7 @@
 
 app-id: fr.romainvigier.zap
 runtime: org.gnome.Platform
-runtime-version: '43'
+runtime-version: '45'
 sdk: org.gnome.Sdk
 command: fr.romainvigier.zap
 
